@@ -1,4 +1,4 @@
-## Create an inversable matrix
+## Create and cache an inversable matrix
 
 # makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse. Takes a numeric vector x as input.
 makeCacheMatrix <- function(x = matrix()) {
